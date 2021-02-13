@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  color:white;
+  margin-top: 200px;
+}
+body{
+  background-color: rgb(41,41,41);
+}
+div > p {
+  margin-left: 150px;
+}
+.button1 {
+  display: block;
+  margin-left:45%;
+  margin-bottom: 10px;
+  width: 300px;
+  padding: 10px 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  background-color: rgb(175,194,217);
+  color: rgb(93,92,96);
+  border-radius: 14px;
+  outline: 0;
+}
+.button1:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+}
+.button2 {
+  display: block;
+  margin-left:45%;
+  width: 300px;
+  padding: 10px 10px;
+  font-size: 20px;
+  text-align: center;
+  cursor: pointer;
+  background-color: rgb(199,73,58);
+  color: white;
+  border-radius: 14px;
+  outline: 0;
+}
+
